@@ -1,0 +1,14 @@
+n = 1
+row hashes
+0   1
+
+n = 2
+row hashes
+0   1
+1   2
+
+n = 3
+row hashes
+0   1
+1   2
+2   3
